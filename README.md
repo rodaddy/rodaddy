@@ -44,14 +44,14 @@ My primary AI agent is named **[Skippy](https://github.com/rodaddy/skippy-person
 
 | Project | What It Does | |
 |---------|-------------|-|
-| **[skippy-persona](https://github.com/rodaddy/skippy-persona)** | Drop-in AI persona files. Make your AI assistant call you a dumdum. | ![Stars](https://img.shields.io/github/stars/rodaddy/skippy-persona?style=flat&color=yellow&label=⭐) |
-| **[mcp2cli](https://github.com/rodaddy/mcp2cli)** | CLI bridge that wraps MCP servers as bash commands. Saves ~11K tokens/session. | ![Stars](https://img.shields.io/github/stars/rodaddy/mcp2cli?style=flat&color=yellow&label=⭐) |
-| **[ProxmoxMCP-Plus](https://github.com/rodaddy/ProxmoxMCP-Plus)** | Enhanced Proxmox VE management with full OpenAPI integration for AI assistants | ![Stars](https://img.shields.io/github/stars/rodaddy/ProxmoxMCP-Plus?style=flat&color=yellow&label=⭐) |
-| **[HomeMCPBridge](https://github.com/rodaddy/HomeMCPBridge)** | Native macOS HomeKit integration for AI assistants via MCP | ![Stars](https://img.shields.io/github/stars/rodaddy/HomeMCPBridge?style=flat&color=yellow&label=⭐) |
-| **[audiobook-pipeline](https://github.com/rodaddy/audiobook-pipeline)** | Audio → chaptered M4B audiobooks with Audible catalog metadata | ![Stars](https://img.shields.io/github/stars/rodaddy/audiobook-pipeline?style=flat&color=yellow&label=⭐) |
-| **[unifi-network-mcp](https://github.com/rodaddy/unifi-network-mcp)** | Extended UniFi MCP server with 125 tools (44 new v1/v2/system endpoints) | ![Stars](https://img.shields.io/github/stars/rodaddy/unifi-network-mcp?style=flat&color=yellow&label=⭐) |
-| **[open-brain](https://github.com/rodaddy/open-brain)** | Local-first knowledge base search engine over 30K+ markdown documents | ![Stars](https://img.shields.io/github/stars/rodaddy/open-brain?style=flat&color=yellow&label=⭐) |
-| **[monkeyproof](https://github.com/rodaddy/monkeyproof)** | Remote coding agent orchestration. Because letting monkeys SSH into prod is how civilizations end. | ![Stars](https://img.shields.io/github/stars/rodaddy/monkeyproof?style=flat&color=yellow&label=⭐) |
+| **[skippy-persona](https://github.com/rodaddy/skippy-persona)** | Drop-in AI persona files. Make your AI assistant call you a dumdum. | [![Stars](https://img.shields.io/github/stars/rodaddy/skippy-persona?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/skippy-persona) |
+| **[mcp2cli](https://github.com/rodaddy/mcp2cli)** | CLI bridge that wraps MCP servers as bash commands. Saves ~11K tokens/session. | [![Stars](https://img.shields.io/github/stars/rodaddy/mcp2cli?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/mcp2cli) |
+| **[ProxmoxMCP-Plus](https://github.com/rodaddy/ProxmoxMCP-Plus)** | Enhanced Proxmox VE management with full OpenAPI integration for AI assistants | [![Stars](https://img.shields.io/github/stars/rodaddy/ProxmoxMCP-Plus?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/ProxmoxMCP-Plus) |
+| **[HomeMCPBridge](https://github.com/rodaddy/HomeMCPBridge)** | Native macOS HomeKit integration for AI assistants via MCP | [![Stars](https://img.shields.io/github/stars/rodaddy/HomeMCPBridge?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/HomeMCPBridge) |
+| **[audiobook-pipeline](https://github.com/rodaddy/audiobook-pipeline)** | Audio → chaptered M4B audiobooks with Audible catalog metadata | [![Stars](https://img.shields.io/github/stars/rodaddy/audiobook-pipeline?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/audiobook-pipeline) |
+| **[unifi-network-mcp](https://github.com/rodaddy/unifi-network-mcp)** | Extended UniFi MCP server with 125 tools (44 new v1/v2/system endpoints) | [![Stars](https://img.shields.io/github/stars/rodaddy/unifi-network-mcp?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/unifi-network-mcp) |
+| **[open-brain](https://github.com/rodaddy/open-brain)** | Local-first knowledge base search engine over 30K+ markdown documents | [![Stars](https://img.shields.io/github/stars/rodaddy/open-brain?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/open-brain) |
+| **[monkeyproof](https://github.com/rodaddy/monkeyproof)** | Remote coding agent orchestration. Because letting monkeys SSH into prod is how civilizations end. | [![Stars](https://img.shields.io/github/stars/rodaddy/monkeyproof?style=flat&color=yellow&label=⭐)](https://github.com/rodaddy/monkeyproof) |
 
 ---
 
