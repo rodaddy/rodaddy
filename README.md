@@ -103,35 +103,6 @@ My primary AI agent is named **[Skippy](https://github.com/rodaddy/skippy-person
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodaddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://streak-stats.demolab.com/?user=rodaddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodaddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rodaddy&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/rodaddy)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rodaddy&theme=tokyo-night&hide_border=true&area=true)](https://github.com/rodaddy)
-
-</div>
-
----
-
 <div align="center">
 
 *I automate things at 3am because that's when the best ideas happen and the markets are open somewhere.*
