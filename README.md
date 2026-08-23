@@ -57,14 +57,15 @@ My primary AI agent is named **[Skippy](https://github.com/rodaddy/skippy-person
 
 ## 🎓 Certifications
 
-**Anthropic Academy** ([academy.claude.com](https://academy.claude.com))
+**[Anthropic Academy](https://academy.claude.com)** -- 14 completion badges
 
-| Track | Courses |
-|-------|---------|
-| Claude Code | Claude Code in Action · Claude Code 101 |
-| Model Context Protocol | Introduction to MCP · MCP: Advanced Topics |
-| Platform | Claude Platform 101 · Introduction to Claude Cowork · AI Capabilities and Limitations |
-| AI Fluency | Framework & Foundations · For Builders · Teaching AI Fluency · For Small Businesses · For Nonprofits · For Educators |
+<div align="center">
+
+<img src="assets/badges/claude-code-in-action.png" width="140" alt="Claude Code in Action"/> <img src="assets/badges/claude-code-101.png" width="140" alt="Claude Code 101"/> <img src="assets/badges/mcp-advanced-topics.png" width="140" alt="Model Context Protocol: Advanced Topics"/> <img src="assets/badges/intro-mcp.png" width="140" alt="Introduction to Model Context Protocol"/> <img src="assets/badges/claude-platform-101.png" width="140" alt="Claude Platform 101"/>
+<img src="assets/badges/intro-claude-cowork.png" width="140" alt="Introduction to Claude Cowork"/> <img src="assets/badges/ai-capabilities-limitations.png" width="140" alt="AI Capabilities and Limitations"/> <img src="assets/badges/claude-101.png" width="140" alt="Claude 101"/> <img src="assets/badges/ai-fluency-builders.png" width="140" alt="AI Fluency for Builders"/> <img src="assets/badges/teaching-ai-fluency.png" width="140" alt="Teaching AI Fluency"/>
+<img src="assets/badges/ai-fluency-framework-foundations.png" width="140" alt="AI Fluency: Framework & Foundations"/> <img src="assets/badges/ai-fluency-small-businesses.png" width="140" alt="AI Fluency for Small Businesses"/> <img src="assets/badges/ai-fluency-nonprofits.png" width="140" alt="AI Fluency for Nonprofits"/> <img src="assets/badges/ai-fluency-educators.png" width="140" alt="AI Fluency for Educators"/>
+
+</div>
 
 In progress: [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) · [Claude with Google Cloud's Vertex AI](https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai)
 
