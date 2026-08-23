@@ -55,6 +55,21 @@ My primary AI agent is named **[Skippy](https://github.com/rodaddy/skippy-person
 
 ---
 
+## 🎓 Certifications
+
+**Anthropic Academy** ([academy.claude.com](https://academy.claude.com))
+
+| Track | Courses |
+|-------|---------|
+| Claude Code | Claude Code in Action · Claude Code 101 |
+| Model Context Protocol | Introduction to MCP · MCP: Advanced Topics |
+| Platform | Claude Platform 101 · Introduction to Claude Cowork · AI Capabilities and Limitations |
+| AI Fluency | Framework & Foundations · For Builders · Teaching AI Fluency · For Small Businesses · For Nonprofits · For Educators |
+
+In progress: [Building with the Claude API](https://academy.claude.com/courses/building-with-the-claude-api) · [Claude with Google Cloud's Vertex AI](https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
